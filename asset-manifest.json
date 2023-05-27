@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/famer/static/css/main.073c9b0a.css",
+    "main.js": "/famer/static/js/main.b7026181.js",
+    "static/js/787.71204a1e.chunk.js": "/famer/static/js/787.71204a1e.chunk.js",
+    "static/media/logo.svg": "/famer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/famer/index.html",
+    "main.073c9b0a.css.map": "/famer/static/css/main.073c9b0a.css.map",
+    "main.b7026181.js.map": "/famer/static/js/main.b7026181.js.map",
+    "787.71204a1e.chunk.js.map": "/famer/static/js/787.71204a1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b7026181.js"
+  ]
+}
